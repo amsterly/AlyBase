@@ -1,7 +1,7 @@
 package com.flj.latte.delegates.web.event;
 
 /**
- * Created by 傅令杰
+ * Created by fashionaly
  */
 
 public interface IEvent {

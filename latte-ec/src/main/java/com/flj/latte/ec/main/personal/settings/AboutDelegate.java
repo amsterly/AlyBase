@@ -16,7 +16,7 @@ import com.flj.latte.net.callback.ISuccess;
 import butterknife.BindView;
 
 /**
- * Created by 傅令杰
+ * Created by fashionaly
  */
 
 public class AboutDelegate extends LatteDelegate {

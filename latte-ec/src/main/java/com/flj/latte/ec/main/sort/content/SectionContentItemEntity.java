@@ -1,7 +1,7 @@
 package com.flj.latte.ec.main.sort.content;
 
 /**
- * Created by 傅令杰
+ * Created by fashionaly
  */
 
 public class SectionContentItemEntity {

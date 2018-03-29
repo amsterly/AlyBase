@@ -3,7 +3,7 @@ package com.flj.latte.ui.recycler;
 import java.util.ArrayList;
 
 /**
- * Created by 傅令杰
+ * Created by fashionaly
  */
 
 public abstract class DataConverter {

@@ -32,7 +32,7 @@ import butterknife.BindView;
 import butterknife.OnClick;
 
 /**
- * Created by 傅令杰
+ * Created by fashionaly
  */
 
 public class ShopCartDelegate extends BottomItemDelegate implements ISuccess, ICartItemListener, IAlPayResultListener {

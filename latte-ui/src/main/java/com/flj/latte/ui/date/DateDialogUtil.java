@@ -12,7 +12,7 @@ import java.util.Calendar;
 import java.util.Locale;
 
 /**
- * Created by 傅令杰
+ * Created by fashionaly
  */
 
 public class DateDialogUtil {

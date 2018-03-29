@@ -21,7 +21,7 @@ import com.flj.latte.util.file.FileUtil;
 import java.io.File;
 
 /**
- * Created by 傅令杰
+ * Created by fashionaly
  * 照片处理类
  */
 

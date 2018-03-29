@@ -1,7 +1,7 @@
 package com.flj.latte.ui.refresh;
 
 /**
- * Created by 傅令杰
+ * Created by fashionaly
  */
 
 public final class PagingBean {

@@ -1,7 +1,7 @@
 package com.flj.latte.delegates;
 
 /**
- * Created by 傅令杰
+ * Created by fashionaly
  */
 
 public interface IPageLoadListener {

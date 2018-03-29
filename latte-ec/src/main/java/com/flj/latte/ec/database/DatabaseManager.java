@@ -5,7 +5,7 @@ import android.content.Context;
 import org.greenrobot.greendao.database.Database;
 
 /**
- * Created by 傅令杰 on 2017/4/22
+ * Created by fashionaly on 2017/4/22
  */
 
 public class DatabaseManager {

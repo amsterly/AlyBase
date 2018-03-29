@@ -8,7 +8,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by 傅令杰
+ * Created by fashionaly
  */
 
 public class SectionDataConverter {

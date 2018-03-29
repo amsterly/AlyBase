@@ -10,7 +10,7 @@ import com.flj.latte.ui.recycler.MultipleItemEntity;
 import java.util.ArrayList;
 
 /**
- * Created by 傅令杰
+ * Created by fashionaly
  */
 
 public class AddressDataConverter extends DataConverter {

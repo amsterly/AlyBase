@@ -4,7 +4,7 @@ import android.content.Context;
 import android.os.Handler;
 
 /**
- * Created by 傅令杰 on 2017/3/29
+ * Created by fashionaly on 2017/3/29
  */
 
 public final class Latte {

@@ -28,7 +28,7 @@ import butterknife.BindView;
 import butterknife.OnClick;
 
 /**
- * Created by 傅令杰
+ * Created by fashionaly
  */
 
 public class IndexDelegate extends BottomItemDelegate implements View.OnFocusChangeListener {
